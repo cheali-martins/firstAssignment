@@ -1,5 +1,7 @@
 # Section B — JavaScript Variables & Datatypes
 
+> This section has the questions and answers of Section B of the assignment.
+
 ### 1. What is a variable in JavaScript?
 
 A variable is a container used to store data values in JavaScript such as a number, text, or object.
