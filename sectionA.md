@@ -39,6 +39,7 @@ It is important because the backend needs persistent storage to save and retriev
 - SQL databases use tables and rows just like a spreadhseet while NoSQL uses collections, documents, or key-value structures.
 - SQL is structured and uses fixed schemas while NoSQL is flexible and has a dynamic schema.
 
+
 ---
 
 ### 7. What is a backend framework? Mention one example.

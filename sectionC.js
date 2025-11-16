@@ -10,6 +10,7 @@ let b = 20;
 let sum = a + b;
 console.log("The sum of the two numbers is", sum);
 
+
 // 3. Create an object called student with properties: name, age, and department.
 let student = {
     name: "Ohaeri Ekene Janua-Ceali",

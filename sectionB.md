@@ -84,7 +84,7 @@ string
 
 ### 10. Explain the difference between null and undefined.
 
-- null means an intentional empty value.
+- Null means an intentional empty value.
 
 ```js
 let y = null;
