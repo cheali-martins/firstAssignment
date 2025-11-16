@@ -2,7 +2,6 @@
 
 // 1. Declare a variable using let and assign your name to it.
 let myName = "Ohaeri Ekene Janua-Ceali";
-console.log(myName);
 
 // 2. Write JavaScript code to add two numbers and log the result.
 let a = 10;
@@ -17,7 +16,6 @@ let student = {
     age: 25,
     department: "Computer Science"
 };
-console.log(student);
 
 // 4. Write a JavaScript function called greet() that prints "Hello World".
 function greet() {
@@ -46,4 +44,4 @@ console.log("The square of the number is", square(45));
 
 let value = "42";
 let convertedString = Number(value);
-console.log("The converted string is", convertedString);
+console.log(convertedString);
